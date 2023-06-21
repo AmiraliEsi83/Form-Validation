@@ -3,9 +3,6 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 ![Screenshot 2023-06-21 at 2 53 04 PM](https://github.com/AmiraliEsi83/Form-Validation/assets/112820902/6492d718-bb5d-4080-bbe7-795a0dd2193a)
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <h2 id="table-of-contents"> 📖 Table of Contents</h2>
@@ -24,7 +21,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- technologies -->
 <h2 id="technologies"> 🛠 Technologies</h2>
