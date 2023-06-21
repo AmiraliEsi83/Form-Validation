@@ -7,7 +7,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-<h1 align="center"><a href="https://AmiraliEsi83/Form-Validator/"><strong>📺 LIVE DEMO</strong></a></h3>
+<h1 align="center"><a href="https://AmiraliEsi83.github.io/Form-Validator/"><strong>📺 LIVE DEMO</strong></a></h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
